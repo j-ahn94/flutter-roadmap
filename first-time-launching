@@ -7,3 +7,8 @@ FIRST LAUNCH (VS Code connect with android emulator):
 4. Open 'Visual Studio Code'
 5. Open 'main.dart' file (found in 'lib' folder)
 6. Run -> Start Debugging
+
+CREATE FLUTTER PROJECT
+1. Open 'Visual Studio Code'
+2. Open Command Palette (or F1 or Ctrl+Shift+P or Shift+Cmd+P)
+3. Type 'Flutter New' and select 'Flutter: New Project'
