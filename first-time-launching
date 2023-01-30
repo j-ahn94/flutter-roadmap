@@ -1,0 +1,9 @@
+LAST UPDATE: 2023 01 30
+
+FIRST LAUNCH (VS Code connect with android emulator):
+1. Open 'Android Studio'
+2. Click 'More Actions'
+3. Click 'Virtual Device Manager'
+4. Open 'Visual Studio Code'
+5. Open 'main.dart' file (found in 'lib' folder)
+6. Run -> Start Debugging
