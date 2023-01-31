@@ -1,2 +1,6 @@
 Measuring App Size - https://docs.flutter.dev/perf/app-size
 
+
+pubsec.yaml <- specifies basic information about app (current version, its dependencies, and the assets with which it will ship)
+
+analysis_options.yaml <- telling how strict Flutter should be when analyzing code 
